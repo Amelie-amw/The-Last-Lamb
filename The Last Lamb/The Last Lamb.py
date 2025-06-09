@@ -1,3 +1,7 @@
+# Programmer(s): Amelie, Annika
+# Date: May 30, 2025
+# Description: pygame design
+
 import sys
 import pygame
 from pygame.locals import *
